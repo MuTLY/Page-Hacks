@@ -1,0 +1,7 @@
+/**
+* to use with g1.globo.com
+* hides the "veja também" video box on articles
+*/
+.shadow-video-flow.shadow-video-flow--in-shadow.shadow-video-flow--inside {
+    display: none;
+}
